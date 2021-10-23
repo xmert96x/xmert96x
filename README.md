@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/mert-çevik-a14854162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert-çevik-a14854162" height="30" width="40" /></a>
 <a href="https://fb.com/xmer96x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xmer96x" height="30" width="40" /></a>
 <a href="https://instagram.com/xmert96xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xmert96xx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/peyniravcisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peyniravcisi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/user/peyniravcisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peyniravcisi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
