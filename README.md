@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kimnedir@hotmail.com**
 
-- 📄 Know about my experiences [xmert96x.tr.gg](xmert96x.tr.gg)
+- 📄 Know about my experiences [https://xmert96x.tr.gg/](https://xmert96x.tr.gg/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
